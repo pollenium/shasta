@@ -2,7 +2,7 @@
   "name": "pollenium-shasta",
   "version": "1.0.0",
   "description": "",
-  "main": "main/index.js",
+  "main": "node/index.js",
   "scripts": {
     "test": "jest",
     "tsc": "tsc"
