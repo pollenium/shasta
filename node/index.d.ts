@@ -1,2 +1,2 @@
 import { Uu, Uish } from 'pollenium-uvaursi';
-export declare function getHashSha256(prehash: Uish): Uu;
+export declare function genSha256(prehashUish: Uish): Uu;
