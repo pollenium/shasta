@@ -1,0 +1,30 @@
+{
+  "name": "pollenium-shasta",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main/index.js",
+  "scripts": {
+    "test": "jest",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pollenium/shasta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pollenium/shasta/issues"
+  },
+  "homepage": "https://github.com/pollenium/shasta#readme",
+  "dependencies": {
+    "hash.js": "^1.1.7",
+    "pollenium-uvaursi": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.9.0",
+    "jest": "^25.1.0",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.7.5"
+  }
+}
